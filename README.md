@@ -20,12 +20,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Divygupta208/CodeLeet/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Divygupta208/CodeLeet/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/Divygupta208/CodeLeet/tree/master/3227-find-missing-and-repeated-values) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Divygupta208/CodeLeet/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## String
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Divygupta208/CodeLeet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Divygupta208/CodeLeet/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Divygupta208/CodeLeet/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Divygupta208/CodeLeet/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -35,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Divygupta208/CodeLeet/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Divygupta208/CodeLeet/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/Divygupta208/CodeLeet/tree/master/3483-alternating-groups-ii) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Divygupta208/CodeLeet/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Array
 |  |
 | ------- |
