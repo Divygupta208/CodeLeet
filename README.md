@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Divygupta208/CodeLeet/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Divygupta208/CodeLeet/tree/master/0027-remove-element) |
 | [0713-subarray-product-less-than-k](https://github.com/Divygupta208/CodeLeet/tree/master/0713-subarray-product-less-than-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Divygupta208/CodeLeet/tree/master/1034-subarrays-with-k-different-integers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Divygupta208/CodeLeet/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Divygupta208/CodeLeet/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Divygupta208/CodeLeet/tree/master/0027-remove-element) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Divygupta208/CodeLeet/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Matrix
 |  |
