@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Divygupta208/CodeLeet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Divygupta208/CodeLeet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Divygupta208/CodeLeet/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Divygupta208/CodeLeet/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Divygupta208/CodeLeet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Divygupta208/CodeLeet/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Divygupta208/CodeLeet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Divygupta208/CodeLeet/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Matrix
 |  |
@@ -144,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Divygupta208/CodeLeet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/Divygupta208/CodeLeet/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
