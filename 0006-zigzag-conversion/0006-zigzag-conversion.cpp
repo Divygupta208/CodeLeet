@@ -2,41 +2,27 @@ class Solution {
 public:
     string convert(string s, int numRows) {
         
-        if(numRows == 1){
-            return s;
+       if (numRows == 1 || s.length() <= numRows) {
+        return s;
+    }
+
+    vector<string> rows(min(numRows, int(s.length())));
+    int row = 0;
+    bool goingDown = false;
+
+    for (char c : s) {
+        rows[row] += c;
+        if (row == 0 || row == numRows - 1) {
+            goingDown = !goingDown; 
         }
-        string ans = "";
-        int n = s.size();
+        row += goingDown ? 1 : -1;  
+    }
 
-        for(int i = 0; i<numRows ; i++){
-            
-            int idx = i;
-            int niche = 2*(numRows-1-i);
-            int upar = 2*i;
-            bool goingup = true;
+    string result;
+    for (string r : rows) {
+        result += r;  
+    }
 
-            while(idx < n){
-                ans += s[idx];
-               
-                if(i == 0){
-                    idx += niche;
-                }else if(i == numRows-1){
-                    idx+= upar;
-                }else{
-
-               
-               if(goingup){
-                 idx += niche;
-               }else{
-                idx += upar;
-               }
-                
-                goingup = !goingup;
-              }
-
-            }
-
-        }
-           return ans;
+    return result;
     }
 };
