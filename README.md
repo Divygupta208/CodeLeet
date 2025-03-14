@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/Divygupta208/CodeLeet/tree/master/0367-valid-perfect-square) |
 | [0713-subarray-product-less-than-k](https://github.com/Divygupta208/CodeLeet/tree/master/0713-subarray-product-less-than-k) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Divygupta208/CodeLeet/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Divygupta208/CodeLeet/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/Divygupta208/CodeLeet/tree/master/0367-valid-perfect-square) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Divygupta208/CodeLeet/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Divygupta208/CodeLeet/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Divygupta208/CodeLeet/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
