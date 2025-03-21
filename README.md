@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Divygupta208/CodeLeet/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Divygupta208/CodeLeet/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Divygupta208/CodeLeet/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Divygupta208/CodeLeet/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Divygupta208/CodeLeet/tree/master/2308-divide-array-into-equal-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Divygupta208/CodeLeet/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/Divygupta208/CodeLeet/tree/master/3227-find-missing-and-repeated-values) |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1636-number-of-substrings-with-only-1s](https://github.com/Divygupta208/CodeLeet/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Divygupta208/CodeLeet/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2187-vowels-of-all-substrings](https://github.com/Divygupta208/CodeLeet/tree/master/2187-vowels-of-all-substrings) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Divygupta208/CodeLeet/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Divygupta208/CodeLeet/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Divygupta208/CodeLeet/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Divygupta208/CodeLeet/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -59,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Divygupta208/CodeLeet/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Divygupta208/CodeLeet/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Divygupta208/CodeLeet/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Divygupta208/CodeLeet/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Divygupta208/CodeLeet/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Divygupta208/CodeLeet/tree/master/2478-longest-nice-subarray) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Divygupta208/CodeLeet/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -179,4 +182,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/Divygupta208/CodeLeet/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Divygupta208/CodeLeet/tree/master/2478-longest-nice-subarray) |
+## Graph
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Divygupta208/CodeLeet/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Topological Sort
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Divygupta208/CodeLeet/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
