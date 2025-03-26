@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Divygupta208/CodeLeet/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Divygupta208/CodeLeet/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Divygupta208/CodeLeet/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Divygupta208/CodeLeet/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Divygupta208/CodeLeet/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Divygupta208/CodeLeet/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Divygupta208/CodeLeet/tree/master/2478-longest-nice-subarray) |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Divygupta208/CodeLeet/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Divygupta208/CodeLeet/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -142,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Divygupta208/CodeLeet/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Divygupta208/CodeLeet/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Divygupta208/CodeLeet/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Divygupta208/CodeLeet/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2187-vowels-of-all-substrings](https://github.com/Divygupta208/CodeLeet/tree/master/2187-vowels-of-all-substrings) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Divygupta208/CodeLeet/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Divygupta208/CodeLeet/tree/master/2649-count-total-number-of-colored-cells) |
@@ -162,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Divygupta208/CodeLeet/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Divygupta208/CodeLeet/tree/master/3227-find-missing-and-repeated-values) |
 ## Number Theory
 |  |
