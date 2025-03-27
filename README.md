@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Divygupta208/CodeLeet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Divygupta208/CodeLeet/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/Divygupta208/CodeLeet/tree/master/0283-move-zeroes) |
 | [0713-subarray-product-less-than-k](https://github.com/Divygupta208/CodeLeet/tree/master/0713-subarray-product-less-than-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Divygupta208/CodeLeet/tree/master/1034-subarrays-with-k-different-integers) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Divygupta208/CodeLeet/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Divygupta208/CodeLeet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Divygupta208/CodeLeet/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Divygupta208/CodeLeet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0283-move-zeroes](https://github.com/Divygupta208/CodeLeet/tree/master/0283-move-zeroes) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Divygupta208/CodeLeet/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Matrix
 |  |
