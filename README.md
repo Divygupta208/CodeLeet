@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Divygupta208/CodeLeet/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Divygupta208/CodeLeet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Divygupta208/CodeLeet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Divygupta208/CodeLeet/tree/master/1034-subarrays-with-k-different-integers) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Divygupta208/CodeLeet/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/Divygupta208/CodeLeet/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/Divygupta208/CodeLeet/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Divygupta208/CodeLeet/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Divygupta208/CodeLeet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/Divygupta208/CodeLeet/tree/master/0713-subarray-product-less-than-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Divygupta208/CodeLeet/tree/master/1034-subarrays-with-k-different-integers) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Divygupta208/CodeLeet/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -78,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Divygupta208/CodeLeet/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Divygupta208/CodeLeet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Divygupta208/CodeLeet/tree/master/0367-valid-perfect-square) |
 | [0713-subarray-product-less-than-k](https://github.com/Divygupta208/CodeLeet/tree/master/0713-subarray-product-less-than-k) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Divygupta208/CodeLeet/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -94,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Divygupta208/CodeLeet/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Divygupta208/CodeLeet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Divygupta208/CodeLeet/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Divygupta208/CodeLeet/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Prefix Sum
@@ -168,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Divygupta208/CodeLeet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/Divygupta208/CodeLeet/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Divygupta208/CodeLeet/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Divygupta208/CodeLeet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Divygupta208/CodeLeet/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Matrix
 |  |
