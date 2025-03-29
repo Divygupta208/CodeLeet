@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2690-house-robber-iv](https://github.com/Divygupta208/CodeLeet/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Divygupta208/CodeLeet/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Divygupta208/CodeLeet/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Divygupta208/CodeLeet/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/Divygupta208/CodeLeet/tree/master/3227-find-missing-and-repeated-values) |
 | [3483-alternating-groups-ii](https://github.com/Divygupta208/CodeLeet/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Divygupta208/CodeLeet/tree/master/3643-zero-array-transformation-ii) |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Divygupta208/CodeLeet/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Divygupta208/CodeLeet/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Divygupta208/CodeLeet/tree/master/3001-apply-operations-to-maximize-score) |
 ## Sorting
 |  |
 | ------- |
@@ -103,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Divygupta208/CodeLeet/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Divygupta208/CodeLeet/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Divygupta208/CodeLeet/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Divygupta208/CodeLeet/tree/master/3001-apply-operations-to-maximize-score) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -124,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Divygupta208/CodeLeet/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Divygupta208/CodeLeet/tree/master/3001-apply-operations-to-maximize-score) |
 ## Tree
 |  |
 | ------- |
@@ -160,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2187-vowels-of-all-substrings](https://github.com/Divygupta208/CodeLeet/tree/master/2187-vowels-of-all-substrings) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Divygupta208/CodeLeet/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Divygupta208/CodeLeet/tree/master/2649-count-total-number-of-colored-cells) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Divygupta208/CodeLeet/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/Divygupta208/CodeLeet/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
@@ -186,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/Divygupta208/CodeLeet/tree/master/2610-closest-prime-numbers-in-range) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Divygupta208/CodeLeet/tree/master/3001-apply-operations-to-maximize-score) |
 ## String Matching
 |  |
 | ------- |
@@ -223,4 +229,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Divygupta208/CodeLeet/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/Divygupta208/CodeLeet/tree/master/3001-apply-operations-to-maximize-score) |
 <!---LeetCode Topics End-->
