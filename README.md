@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2308-divide-array-into-equal-pairs](https://github.com/Divygupta208/CodeLeet/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Divygupta208/CodeLeet/tree/master/2478-longest-nice-subarray) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Divygupta208/CodeLeet/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2681-put-marbles-in-bags](https://github.com/Divygupta208/CodeLeet/tree/master/2681-put-marbles-in-bags) |
 | [2690-house-robber-iv](https://github.com/Divygupta208/CodeLeet/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Divygupta208/CodeLeet/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Divygupta208/CodeLeet/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/Divygupta208/CodeLeet/tree/master/0768-partition-labels) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Divygupta208/CodeLeet/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Divygupta208/CodeLeet/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2681-put-marbles-in-bags](https://github.com/Divygupta208/CodeLeet/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Divygupta208/CodeLeet/tree/master/3001-apply-operations-to-maximize-score) |
 ## Sorting
 |  |
@@ -107,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Divygupta208/CodeLeet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Divygupta208/CodeLeet/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Divygupta208/CodeLeet/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2681-put-marbles-in-bags](https://github.com/Divygupta208/CodeLeet/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Divygupta208/CodeLeet/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Divygupta208/CodeLeet/tree/master/3001-apply-operations-to-maximize-score) |
 ## Prefix Sum
@@ -237,4 +240,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3001-apply-operations-to-maximize-score](https://github.com/Divygupta208/CodeLeet/tree/master/3001-apply-operations-to-maximize-score) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2681-put-marbles-in-bags](https://github.com/Divygupta208/CodeLeet/tree/master/2681-put-marbles-in-bags) |
 <!---LeetCode Topics End-->
