@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Divygupta208/CodeLeet/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Divygupta208/CodeLeet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Divygupta208/CodeLeet/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0768-partition-labels](https://github.com/Divygupta208/CodeLeet/tree/master/0768-partition-labels) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Divygupta208/CodeLeet/tree/master/1034-subarrays-with-k-different-integers) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Divygupta208/CodeLeet/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Divygupta208/CodeLeet/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0006-zigzag-conversion](https://github.com/Divygupta208/CodeLeet/tree/master/0006-zigzag-conversion) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Divygupta208/CodeLeet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Divygupta208/CodeLeet/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0768-partition-labels](https://github.com/Divygupta208/CodeLeet/tree/master/0768-partition-labels) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Divygupta208/CodeLeet/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Divygupta208/CodeLeet/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Divygupta208/CodeLeet/tree/master/2186-count-vowel-substrings-of-a-string) |
@@ -94,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/Divygupta208/CodeLeet/tree/master/0768-partition-labels) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Divygupta208/CodeLeet/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Divygupta208/CodeLeet/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Divygupta208/CodeLeet/tree/master/3001-apply-operations-to-maximize-score) |
@@ -181,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Divygupta208/CodeLeet/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Divygupta208/CodeLeet/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Divygupta208/CodeLeet/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0768-partition-labels](https://github.com/Divygupta208/CodeLeet/tree/master/0768-partition-labels) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Divygupta208/CodeLeet/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Matrix
 |  |
