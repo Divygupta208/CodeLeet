@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Divygupta208/CodeLeet/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Divygupta208/CodeLeet/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Divygupta208/CodeLeet/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2262-solving-questions-with-brainpower](https://github.com/Divygupta208/CodeLeet/tree/master/2262-solving-questions-with-brainpower) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Divygupta208/CodeLeet/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Divygupta208/CodeLeet/tree/master/2478-longest-nice-subarray) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Divygupta208/CodeLeet/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Divygupta208/CodeLeet/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Divygupta208/CodeLeet/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2187-vowels-of-all-substrings](https://github.com/Divygupta208/CodeLeet/tree/master/2187-vowels-of-all-substrings) |
+| [2262-solving-questions-with-brainpower](https://github.com/Divygupta208/CodeLeet/tree/master/2262-solving-questions-with-brainpower) |
 ## Two Pointers
 |  |
 | ------- |
