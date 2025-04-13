@@ -177,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Divygupta208/CodeLeet/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Divygupta208/CodeLeet/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Divygupta208/CodeLeet/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2050-count-good-numbers](https://github.com/Divygupta208/CodeLeet/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Divygupta208/CodeLeet/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2187-vowels-of-all-substrings](https://github.com/Divygupta208/CodeLeet/tree/master/2187-vowels-of-all-substrings) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Divygupta208/CodeLeet/tree/master/2610-closest-prime-numbers-in-range) |
@@ -265,4 +266,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3548-find-the-count-of-good-integers](https://github.com/Divygupta208/CodeLeet/tree/master/3548-find-the-count-of-good-integers) |
+## Recursion
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/Divygupta208/CodeLeet/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
