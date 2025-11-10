@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Divygupta208/CodeLeet/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Divygupta208/CodeLeet/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Divygupta208/CodeLeet/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2465-shifting-letters-ii](https://github.com/Divygupta208/CodeLeet/tree/master/2465-shifting-letters-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Divygupta208/CodeLeet/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Divygupta208/CodeLeet/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Sliding Window
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2308-divide-array-into-equal-pairs](https://github.com/Divygupta208/CodeLeet/tree/master/2308-divide-array-into-equal-pairs) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Divygupta208/CodeLeet/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Divygupta208/CodeLeet/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2465-shifting-letters-ii](https://github.com/Divygupta208/CodeLeet/tree/master/2465-shifting-letters-ii) |
 | [2478-longest-nice-subarray](https://github.com/Divygupta208/CodeLeet/tree/master/2478-longest-nice-subarray) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Divygupta208/CodeLeet/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Divygupta208/CodeLeet/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -141,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/Divygupta208/CodeLeet/tree/master/0713-subarray-product-less-than-k) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Divygupta208/CodeLeet/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Divygupta208/CodeLeet/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2465-shifting-letters-ii](https://github.com/Divygupta208/CodeLeet/tree/master/2465-shifting-letters-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Divygupta208/CodeLeet/tree/master/3643-zero-array-transformation-ii) |
 ## Counting
 |  |
