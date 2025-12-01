@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3227-find-missing-and-repeated-values](https://github.com/Divygupta208/CodeLeet/tree/master/3227-find-missing-and-repeated-values) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Divygupta208/CodeLeet/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3483-alternating-groups-ii](https://github.com/Divygupta208/CodeLeet/tree/master/3483-alternating-groups-ii) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Divygupta208/CodeLeet/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Divygupta208/CodeLeet/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Divygupta208/CodeLeet/tree/master/3643-zero-array-transformation-ii) |
 ## Binary Search
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3001-apply-operations-to-maximize-score](https://github.com/Divygupta208/CodeLeet/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/Divygupta208/CodeLeet/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Divygupta208/CodeLeet/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Divygupta208/CodeLeet/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3548-find-the-count-of-good-integers](https://github.com/Divygupta208/CodeLeet/tree/master/3548-find-the-count-of-good-integers) |
 ## Dynamic Programming
 |  |
