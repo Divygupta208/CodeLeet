@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Divygupta208/CodeLeet/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3548-find-the-count-of-good-integers](https://github.com/Divygupta208/CodeLeet/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Divygupta208/CodeLeet/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3583-count-special-triplets](https://github.com/Divygupta208/CodeLeet/tree/master/3583-count-special-triplets) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Divygupta208/CodeLeet/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## String
 |  |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Divygupta208/CodeLeet/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3483-alternating-groups-ii](https://github.com/Divygupta208/CodeLeet/tree/master/3483-alternating-groups-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Divygupta208/CodeLeet/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3583-count-special-triplets](https://github.com/Divygupta208/CodeLeet/tree/master/3583-count-special-triplets) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Divygupta208/CodeLeet/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Divygupta208/CodeLeet/tree/master/3643-zero-array-transformation-ii) |
 ## Binary Search
@@ -165,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1034-subarrays-with-k-different-integers](https://github.com/Divygupta208/CodeLeet/tree/master/1034-subarrays-with-k-different-integers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Divygupta208/CodeLeet/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Divygupta208/CodeLeet/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3583-count-special-triplets](https://github.com/Divygupta208/CodeLeet/tree/master/3583-count-special-triplets) |
 ## Backtracking
 |  |
 | ------- |
