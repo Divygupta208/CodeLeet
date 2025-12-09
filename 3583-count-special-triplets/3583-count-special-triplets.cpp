@@ -16,14 +16,14 @@ public:
         long long ans = 0;
         for (int j = 0; j < nums.size(); ++j) {
             int x = nums[j];
-            --right[x];                     
+            right[x]--;                     
             
             int doubleX = x * 2;
             if (doubleX < MAXV) {
                 ans = (ans + left[doubleX] * right[doubleX]) % MOD;
             }
             
-            ++left[x];                      // now it is on the left side
+            left[x]++;                     
         }
         return ans;
     }
