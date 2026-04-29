@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1071-binary-prefix-divisible-by-5](https://github.com/Divygupta208/CodeLeet/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Divygupta208/CodeLeet/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Divygupta208/CodeLeet/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1470-shuffle-the-array](https://github.com/Divygupta208/CodeLeet/tree/master/1470-shuffle-the-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Divygupta208/CodeLeet/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/Divygupta208/CodeLeet/tree/master/1656-count-good-triplets) |
 | [1929-concatenation-of-array](https://github.com/Divygupta208/CodeLeet/tree/master/1929-concatenation-of-array) |
