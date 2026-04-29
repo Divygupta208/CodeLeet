@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Divygupta208/CodeLeet/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Divygupta208/CodeLeet/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/Divygupta208/CodeLeet/tree/master/1656-count-good-triplets) |
+| [1929-concatenation-of-array](https://github.com/Divygupta208/CodeLeet/tree/master/1929-concatenation-of-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Divygupta208/CodeLeet/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Divygupta208/CodeLeet/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Divygupta208/CodeLeet/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -333,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/Divygupta208/CodeLeet/tree/master/1642-water-bottles) |
+| [1929-concatenation-of-array](https://github.com/Divygupta208/CodeLeet/tree/master/1929-concatenation-of-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Divygupta208/CodeLeet/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Divygupta208/CodeLeet/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Queue
