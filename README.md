@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1470-shuffle-the-array](https://github.com/Divygupta208/CodeLeet/tree/master/1470-shuffle-the-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Divygupta208/CodeLeet/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/Divygupta208/CodeLeet/tree/master/1656-count-good-triplets) |
+| [1732-find-the-highest-altitude](https://github.com/Divygupta208/CodeLeet/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/Divygupta208/CodeLeet/tree/master/1929-concatenation-of-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Divygupta208/CodeLeet/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Divygupta208/CodeLeet/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Divygupta208/CodeLeet/tree/master/0713-subarray-product-less-than-k) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Divygupta208/CodeLeet/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1732-find-the-highest-altitude](https://github.com/Divygupta208/CodeLeet/tree/master/1732-find-the-highest-altitude) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Divygupta208/CodeLeet/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2465-shifting-letters-ii](https://github.com/Divygupta208/CodeLeet/tree/master/2465-shifting-letters-ii) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Divygupta208/CodeLeet/tree/master/2618-maximize-the-minimum-powered-city) |
