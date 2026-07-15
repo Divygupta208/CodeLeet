@@ -242,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Divygupta208/CodeLeet/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3548-find-the-count-of-good-integers](https://github.com/Divygupta208/CodeLeet/tree/master/3548-find-the-count-of-good-integers) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Divygupta208/CodeLeet/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Divygupta208/CodeLeet/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -278,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/Divygupta208/CodeLeet/tree/master/2610-closest-prime-numbers-in-range) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Divygupta208/CodeLeet/tree/master/3001-apply-operations-to-maximize-score) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Divygupta208/CodeLeet/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String Matching
 |  |
 | ------- |
